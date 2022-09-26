@@ -36,7 +36,8 @@ const deleteShoppingCart = () =>{
 }
 
 export {
-    addToDb, 
+    addToDb,
     removeFromDb,
     deleteShoppingCart
-}
+};
+
